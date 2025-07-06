@@ -1,13 +1,107 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# wailem | مطور مستقل في الذكاء الاصطناعي والأتمتة
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+مطور يعمل عند تقاطع التعليم، الذكاء الاصطناعي، والتقنية الحديثة. أبني أنظمة قابلة للتوسع تعتمد على الكفاءة والسرعة باستخدام أدوات مفتوحة المصدر ومجانية.
 
-Oh! I haven't introduced myself...
+---
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+## نبذة تعريفية
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+- الاسم: wailem
+- البريد الإلكتروني: wailemgroov@gmail.com
+- الدولة: الجزائر
+- التخصص: دمج الذكاء الاصطناعي، تطوير تطبيقات Flutter، برمجة بوتات تداول، أتمتة النشر والتحليل
+- الأجهزة: أعمل بإمكانات محدودة (8GB RAM / Windows) وأحقق بها أنظمة إنتاجية عالية الكفاءة
 
-I'll meet you over there, can't wait to get started!
+---
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+## المهارات التقنية
+
+### لغات البرمجة
+- Python
+- Dart (Flutter)
+- MQL5 (MetaTrader 5)
+- JavaScript
+- Bash / CLI / Termux Automation
+
+### الذكاء الاصطناعي
+- GPT-4o, Claude, ElevenLabs
+- Whisper لتحويل الصوت إلى نص
+- توليد المحتوى والتقارير التعليمية آليًا
+
+### أدوات وتقنيات
+- MetaTrader 5 (Backtesting, EA Bots, HFT Scalping)
+- Firebase / SQLite / Google Sheets API
+- GitHub Actions, Git CLI
+- CapCut scripting + TikTok Automation
+- Web3 (Sepolia, Linea, Monad Testnet integration)
+- cypherm09 وواجهات تحكم أمنية مخصصة
+
+---
+
+## المشاريع المميزة
+
+### 1. أنظمة تداول احترافية (MetaTrader 5 + Python)
+- تطوير بوت تداول HFT عدواني باستخدام MACD و EMA على الذهب (M1)
+- بوت تداول خفيف لتجريب الشراء عند الإدراج وبيع عند +1% بعد خصم Gas
+- سكربت Python يرسل نتائج الباكتيست لتحليل GPT ويُعدّل البوت آليًا
+- مستشار خبير MQL5 لشموع Hammer/HangingMan مع مؤشرات MFI و SMA
+- بوت تداول يعتمد على مستويات فيبوناتشي والقنوات السعرية سكالبينغ
+
+### 2. تطبيقات Flutter متقدمة
+- تطبيق تعليمي لتحليل أداء الطلاب وتصحيح التمارين تلقائيًا
+- عرض بيانات التداول والمؤشرات الحية باستخدام واجهة Flutter
+- ربط مباشر بين الذكاء الاصطناعي وواجهة Flutter عبر APIs
+
+### 3. مشاريع Python عامة
+- بوت Telegram للنشر التلقائي وجدولة المحتوى
+- سكربت لتحليل نصوص، تلخيص، وتوليد ردود آلية باستخدام GPT
+- ربط Google Sheets بذكاء اصطناعي لإعداد تقارير أسبوعية عن الأداء
+- سكربت تعدين عملة رقمية خفيفة باستخدام جهاز شخصي محدود
+
+### 4. أتمتة المحتوى المرئي
+- تحرير فيديوهات TikTok عبر CapCut scripting
+- توليد فيديوهات تعليمية قصيرة من ملفات نصية + تحويل نص إلى صوت
+- نشر المحتوى تلقائيًا عبر تيليجرام وTikTok APIs
+
+---
+
+## مشاريع مفتوحة المصدر
+
+- `XAUUSD_HFT.mq5` — مستشار خبير عالي التردد على الذهب
+- `ai-trader.py` — بوت تداول بايثون مع تحليل ذكاء اصطناعي
+- `flutter-ai-edu` — تطبيق Flutter تعليم تفاعلي مع GPT
+- `capcut-tiktok-autopublish` — أتمتة مونتاج الفيديو والنشر
+
+---
+
+## الذكاء الاصطناعي في مشاريعي
+
+تم استخدام الذكاء الاصطناعي بشكل مباشر في:
+
+- كتابة وتحسين أجزاء من الكود
+- تحليل نتائج باكتيست التداول
+- توليد تقارير الأداء وتحليلها
+- تصميم واجهات الحوار والمساعدة في المشاريع التعليمية
+- الترجمة البرمجية من Python إلى MQL5 والعكس
+
+---
+
+## إحصائيات حسابي على GitHub
+
+[عرض النشاط](https://github-readme-stats.vercel.app/api?username=wailem&show_icons=true&theme=default)
+
+[سجل النشاط اليومي](https://github-readme-streak-stats.herokuapp.com/?user=wailem&theme=default)
+
+---
+
+## اتصل بي
+
+- البريد الإلكتروني: wailemgroov@gmail.com
+- GitHub: [https://github.com/wailem](https://github.com/wailem)
+- المشاريع مفتوحة المصدر: تجدها كاملة في الصفحة الرئيسية
+
+---
+
+## ملاحظات ختامية
+
+> "لا تحتاج إلى معدات متطورة لبناء تقنيات عظيمة، بل تحتاج إلى رؤية ذكية، أدوات مفتوحة المصدر، وخوارزميات مخصصة."
